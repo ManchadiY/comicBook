@@ -1,0 +1,56 @@
+[
+  {
+    "bookname": "The Amazing Spider-Man",
+    "author": "Stan Lee",
+    "year_of_publication": 1963,
+    "price": 15.99,
+    "number_of_pages": 36,
+    "condition": "Used",
+    "description": "A classic comic book featuring the first appearance of Spider-Man. Follow Peter Parker as he learns to balance high school life with superhero duties in New York City."
+  },
+  {
+    "bookname": "Batman: The Killing Joke",
+    "author": "Alan Moore",
+    "year_of_publication": 1988,
+    "price": 12.99,
+    "number_of_pages": 64,
+    "condition": "New",
+    "description": "A dark and critically acclaimed graphic novel that delves deep into the origin of The Joker, Batman's most notorious foe."
+  },
+  {
+    "bookname": "X-Men: Days of Future Past",
+    "author": "Chris Claremont",
+    "year_of_publication": 1981,
+    "price": 18.5,
+    "number_of_pages": 45,
+    "condition": "Used",
+    "description": "A time-traveling story where the X-Men must stop an event that will lead to the downfall of mutants and humanity alike."
+  },
+  {
+    "bookname": "Wonder Woman: Gods and Mortals",
+    "author": "George Pérez",
+    "year_of_publication": 1987,
+    "price": 14.99,
+    "number_of_pages": 32,
+    "condition": "New",
+    "description": "Wonder Woman's origin story is retold as she is introduced to the world of man and must take on her role as a superhero."
+  },
+  {
+    "bookname": "The Sandman: Preludes & Nocturnes",
+    "author": "Neil Gaiman",
+    "year_of_publication": 1989,
+    "price": 19.99,
+    "number_of_pages": 240,
+    "condition": "New",
+    "description": "The beginning of the Sandman saga, where Dream, one of the Endless, escapes from captivity and seeks to reclaim his lost power."
+  },
+  {
+    "bookname": "Black Panther: Panther's Rage",
+    "author": "Don McGregor",
+    "year_of_publication": 1973,
+    "price": 20.0,
+    "number_of_pages": 52,
+    "condition": "Used",
+    "description": "One of the earliest Black Panther stories, where T'Challa fights to protect Wakanda from revolutionaries and external threats."
+  }
+]
